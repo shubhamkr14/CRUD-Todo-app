@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "583f",
+      "task": "zxczcx",
+      "status": "zXczcx",
+      "deadline": "2025-05-28T17:23"
+    },
+    {
+      "id": "095f",
+      "task": "sdsad",
+      "status": "ASDASD",
+      "deadline": "2025-05-27T20:32"
+    },
+    {
+      "task": "AASDAdsdASD",
+      "status": "ASDASDasd",
+      "deadline": "2025-05-27T17:36",
+      "id": "4bb0"
+    },
+    {
+      "id": "041c",
+      "task": "sdsd",
+      "status": "SDds",
+      "deadline": "2025-05-27T22:52"
+    },
+    {
+      "id": "ed41",
+      "task": "sddsdasdas",
+      "status": "asdsad",
+      "deadline": "2025-05-27T11:56"
+    }
+  ]
+}
